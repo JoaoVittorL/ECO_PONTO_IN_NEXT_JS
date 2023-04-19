@@ -1,0 +1,15 @@
+.defaultStyleLabel{
+  color: #cdcdcd;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+.defaultStyleInput{
+  font-size: 16px;
+  height: 40px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  padding-left: 5px;
+  margin-bottom:10px ;
+}
